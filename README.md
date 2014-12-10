@@ -23,4 +23,4 @@ From left to right:
 
 Most of the modification was made to the AppleScript file, but I also added some styling (color, opacity, font-size) to `index.coffee`.
 
-I write a bit about why I care about the half-way point in a post [here](http://sherifsoliman.com/2014/11/16/itunes-now-widget-for-Übersicht/).
+I write a bit about why I care about the half-way point in a post [here](http://sherifsoliman.com/2014/11/16/itunes-now-widget-for-Ubersicht/).
