@@ -7,4 +7,4 @@ The widget displays some information about the currently playing track in iTunes
 The original `itunes-now.widget` from sheriferson was a little bit too busy for my liking, so I simplified it down to only the track name & artist.
 
 Here is a screenshot:
-![Screenshot of itunes-now.widget](screenshot.png)
+![Screenshot of itunes-now.widget](https://cloud.githubusercontent.com/assets/10248306/5640335/2a27a810-95f2-11e4-99c1-dc8dd6d8126a.png)
