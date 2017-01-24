@@ -14,7 +14,7 @@ if safRunning then
 			repeat ((rating of current track) / 20) times
 				set nowrating to (nowrating & star)
 			end repeat
-
-return mark & \"<nowtrack>\" & name of current track & \"</nowtrack> <punct></punct> \" & \"<nowartist>\" & artist of current track		end if	
+			
+			return mark & \"<nowtrack>\" & name of current track & \"</nowtrack> <punct></punct> \" & \"<nowartist>\" & artist of current track		end if	
 	end tell"
 end if
